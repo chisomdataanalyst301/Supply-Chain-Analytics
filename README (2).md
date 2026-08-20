@@ -1,4 +1,4 @@
-# 📦 Supply Chain Operations Analytics Dashboard
+# 📦 Supply Chain Procurement & Supplier Performance Dashboard
 
 > End-to-end supply chain analytics project — from synthetic data generation and cleaning in Python, to optimization modeling, to an interactive Power BI dashboard.
 
